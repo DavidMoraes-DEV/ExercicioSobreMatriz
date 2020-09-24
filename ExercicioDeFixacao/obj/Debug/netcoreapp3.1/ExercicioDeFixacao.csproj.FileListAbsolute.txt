@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.exe
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.deps.json
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeMatriz\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.genruntimeconfig.cache
